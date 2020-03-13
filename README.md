@@ -14,7 +14,7 @@ unzip beer_50000.json.zip
 ### Running
 
 ```
-python3 multi_beer_fanatic
+python3 multi_beer_fanatic.py
 ```
 
 ## Built With
